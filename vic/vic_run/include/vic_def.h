@@ -60,7 +60,7 @@
 
 /***** Define maximum array sizes for model source code *****/
 #define MAX_VEG         12     /**< maximum number of vegetation types per cell */
-#define MAX_LAYERS      3      /**< maximum number of soil moisture layers */
+#define MAX_LAYERS      4      /**< maximum number of soil moisture layers */
 #define MAX_NODES       50     /**< maximum number of soil thermal nodes */
 #define MAX_BANDS       10     /**< maximum number of snow bands */
 #define MAX_FRONTS      3      /**< maximum number of freezing and thawing front depths to store */
